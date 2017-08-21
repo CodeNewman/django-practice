@@ -10,28 +10,28 @@ Using These Examples
 
 Each example has been separated out into different branches that correspond to their chapter. Below you will find links to each chapters example code:
 
-`Chapter One, The World's Smallest Django Project <https://github.com/lightweightdjango/examples/tree/chapter-1>`_
+Chapter One, The World's Smallest Django Project 
 ###################################################################################################################
 
-`Chapter Two, Stateless Web Application <https://github.com/lightweightdjango/examples/tree/chapter-2>`_
+Chapter Two, Stateless Web Application 
 ########################################################################################################
 
-`Chapter Three, Building a Static Site Generator <https://github.com/lightweightdjango/examples/tree/chapter-3>`_
+Chapter Three, Building a Static Site Generator 
 #################################################################################################################
 
-`Chapter Four, Build a REST API <https://github.com/lightweightdjango/examples/tree/chapter-4>`_
+Chapter Four, Build a REST API 
 ################################################################################################
 
-`Chapter Five, Client-Side Django with Backbone.js <https://github.com/lightweightdjango/examples/tree/chapter-5>`_
+Chapter Five, Client-Side Django with Backbone.js 
 ###################################################################################################################
 
-`Chapter Six, Single Page Web Application <https://github.com/lightweightdjango/examples/tree/chapter-6>`_
+Chapter Six, Single Page Web Application 
 ##########################################################################################################
 
-`Chapter Seven, Real-Time Django <https://github.com/lightweightdjango/examples/tree/chapter-7>`_
+Chapter Seven, Real-Time Django 
 #################################################################################################
 
-`Chapter Eight, Communication Between Django and Tornado <https://github.com/lightweightdjango/examples/tree/chapter-8>`_
+Chapter Eight, Communication Between Django and Tornado 
 #########################################################################################################################
 
 
@@ -42,3 +42,6 @@ These code examples are excerpted from Lightweight Django by Julia Elman and Mar
 We appreciate, but do not require, attribution. An attribution usually includes the title, author, publisher, and ISBN. For example: “Lightweight Django by Julia Elman and Mark Lavin (O’Reilly). Copyright 2014 Julia Elman and Mark Lavin. 978-1-4919-4594-0.”
 
 If you feel your use of these code examples falls outside fair use or the permission given here, feel free to contact O'Reilly at `permissions@oreilly.com <mailto:permissions@oreilly.com>`_
+
+
+Reprinted from : https://github.com/lightweightdjango/examples
